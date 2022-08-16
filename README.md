@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mostafa</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.videoplasty.com%2Fanimation%2Fchill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg&imgrefurl=https%3A%2F%2Fvideoplasty.com%2Fstock-animation%2Fchill-coding-programming-lofi-animation-11018&tbnid=JdP4MsnabmB7WM&vet=10CIEBEDMokgFqFwoTCKCh79H9y_kCFQAAAAAdAAAAABAC..i&docid=mq7rkButFkx93M&w=1024&h=576&q=animated%20coding%20gif&ved=0CIEBEDMokgFqFwoTCKCh79H9y_kCFQAAAAAdAAAAABAC">
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamedmostafaaa&label=Profile%20views&color=0e75b6&style=flat" alt="muhamedmostafaaa" /> </p>
 
 - 🔭 I’m currently working on **Freelancing Projects**
