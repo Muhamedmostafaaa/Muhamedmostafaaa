@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Application Developer "Flutter"</h3>
 &nbsp;
 &nbsp;
-<img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamedmostafaaa&label=Profile%20views&color=0e75b6&style=flat" alt="muhamedmostafaaa" /> </p>
 
